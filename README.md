@@ -1,2 +1,2 @@
 # git-test-res
-git dos test
+git dos 
