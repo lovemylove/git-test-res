@@ -1,2 +1,6 @@
 # git-test-res
-git dos 
+git dos is ok 
+
+it`s time to go sleep
+
+goodnight
